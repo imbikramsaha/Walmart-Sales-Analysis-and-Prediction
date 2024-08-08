@@ -1,7 +1,7 @@
 # Walmart-Sales-Analysis-and-Prediction
 Walmart weekly sales analysis and prediction
 
-## There seems to be an issue with GitHub not displaying the preview for the Jupyter notebook. You can view the same notebook hosted on Jovian using this link: [Walmart Sales Analysis and Prediction](https://jovian.ai/bsaha6199/walmart-sales-analysis-and-prediction).
+## Sometime GitHub doesn't displaying the preview for the Jupyter notebook. You can view the same notebook hosted on Jovian using this link: [Walmart Sales Analysis and Prediction](https://jovian.ai/bsaha6199/walmart-sales-analysis-and-prediction).
 
 ## About Dataset
 
